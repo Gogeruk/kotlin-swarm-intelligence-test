@@ -1,7 +1,7 @@
 version: '3.7'
 
 services:
-  kotlin-swarm-intelligence~test:
+  kotlin_swarm_intelligence_test:
     build:
       context: .
       dockerfile: Dockerfile
